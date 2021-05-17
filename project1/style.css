@@ -112,12 +112,11 @@
         flex-grow: 1;
         text-align: end;
     }
-    
     .footer-nav li {
         padding: 0.5em;
     }
     
     .footer-nav img {
-        width: 60px;
-        height: 40px;
+        width: 100px;
+        height: 90px;
     }
